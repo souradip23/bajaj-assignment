@@ -10,7 +10,7 @@ import java.util.List;
 public class BfhlServiceImpl implements BfhlService {
 
 
-    private static final String FULL_NAME   = "Souradip Pramanik";
+    private static final String FULL_NAME   = "souradip pramanik";
     private static final String DOB         = "26012006";
     private static final String EMAIL       = "souradip1507.be23@chitkarauniversity.edu.in";
     private static final String ROLL_NUMBER = "2311981507";
